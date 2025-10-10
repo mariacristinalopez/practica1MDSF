@@ -1,8 +1,8 @@
-[[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mariacristinalopez/practica1MDSF)]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mariacristinalopez/practica1MDSF)
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Maria Cristina Lopez Lopez\[22212259]; l22212259@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
